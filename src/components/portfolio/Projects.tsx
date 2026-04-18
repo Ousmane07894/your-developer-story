@@ -72,7 +72,7 @@ export const Projects = () => {
           <div className="max-w-2xl">
             <div className="font-mono text-xs uppercase tracking-[0.3em] text-primary-glow">03 — Réalisations</div>
             <h2 className="mt-4 font-display text-4xl font-semibold leading-tight md:text-5xl">
-              Projets & <span className="text-gradient">applications</ux></span>
+              Projets & <span className="text-gradient">applications</span>
             </h2>
           </div>
           <p className="max-w-md text-muted-foreground">
