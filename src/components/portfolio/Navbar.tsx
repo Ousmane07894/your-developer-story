@@ -52,10 +52,11 @@ export const Navbar = () => {
           </ul>
 
           <a
-            href="#contact"
-            className="hidden rounded-lg bg-gradient-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow-glow transition-transform hover:scale-[1.02] md:inline-flex"
+            href="/Zongo_Ousmane_CV.pdf"
+            download
+            className="hidden items-center gap-2 rounded-lg bg-gradient-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow-glow transition-transform hover:scale-[1.02] md:inline-flex"
           >
-            Me contacter
+            Télécharger CV
           </a>
 
           <button
