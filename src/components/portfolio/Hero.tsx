@@ -1,5 +1,5 @@
 import portrait from "@/assets/ousmane-portrait.jpg";
-import { ArrowDown, Mail, Phone } from "lucide-react";
+import { ArrowDown, Download, Mail, Phone } from "lucide-react";
 
 export const Hero = () => {
   return (
