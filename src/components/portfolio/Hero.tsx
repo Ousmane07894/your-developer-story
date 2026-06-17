@@ -45,6 +45,14 @@ export const Hero = () => {
                 <Mail className="h-4 w-4" />
                 Me contacter
               </a>
+              <a
+                href="/Zongo_Ousmane_CV.pdf"
+                download
+                className="inline-flex items-center gap-2 rounded-xl border border-border bg-card/40 px-6 py-3 font-medium backdrop-blur transition-colors hover:bg-card"
+              >
+                <Download className="h-4 w-4" />
+                Télécharger CV
+              </a>
             </div>
 
             <div className="mt-12 flex flex-wrap items-center gap-x-8 gap-y-3 text-sm text-muted-foreground">
